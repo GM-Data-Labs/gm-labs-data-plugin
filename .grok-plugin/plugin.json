@@ -1,0 +1,17 @@
+{
+  "name": "gm-labs-data",
+  "version": "0.1.0",
+  "description": "GM Labs Data: US government filings (TTB alcohol permits, UCC-1 liens, DOT bid results), ATS job listings (Greenhouse/Lever/Ashby) and full-page screenshots via GM Labs' public pay-per-result Apify Actors, served through Apify's hosted MCP (mcp.apify.com). Bring your own Apify token via APIFY_TOKEN.",
+  "author": {
+    "name": "GM Labs",
+    "url": "https://apify.com/appetizing_horsefly"
+  },
+  "homepage": "https://apify.com/appetizing_horsefly",
+  "repository": "https://github.com/NEWOWNER/gm-labs-data-plugin",
+  "license": "MIT",
+  "keywords": [
+    "gm labs data",
+    "gm labs apify",
+    "appetizing_horsefly"
+  ]
+}
