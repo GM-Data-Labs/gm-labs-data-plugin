@@ -2,7 +2,7 @@
   "mcpServers": {
     "gm-labs-data": {
       "type": "http",
-      "url": "https://mcp.apify.com/?tools=appetizing_horsefly/ttb-alcohol-permits,appetizing_horsefly/ucc-filings-feed,appetizing_horsefly/dot-bid-results,appetizing_horsefly/ats-jobs-scraper,appetizing_horsefly/fast-full-page-screenshot",
+      "url": "https://mcp.apify.com/?tools=appetizing_horsefly/ttb-alcohol-permits,appetizing_horsefly/ucc-filings-feed,appetizing_horsefly/dot-bid-results,appetizing_horsefly/liquor-license-feed,appetizing_horsefly/new-business-filings,appetizing_horsefly/ats-jobs-scraper,appetizing_horsefly/fast-full-page-screenshot",
       "headers": { "Authorization": "Bearer ${APIFY_TOKEN}" }
     }
   }
